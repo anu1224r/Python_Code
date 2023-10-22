@@ -1,0 +1,7 @@
+print(15+6)
+print(20-4)
+print(34*2)
+print(16/4)
+print(15//6)
+print(5%3)
+print(5**5)
